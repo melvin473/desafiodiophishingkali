@@ -1,5 +1,5 @@
 # Criando página falsa de login com o Kali Linux
-Página de phishing criada com a ferramenta `setoolkit` do Kali Linux, para o desafio do bootcamp de cibersegurança da plataforma DIO.
+Página de phishing criada com a ferramenta `setoolkit` do sistema operacional Kali Linux, para o desafio do bootcamp de cibersegurança da plataforma DIO.
 
 Documentação da ferramenta: https://www.kali.org/tools/set/
 
